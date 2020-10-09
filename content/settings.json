@@ -1,0 +1,11 @@
+{
+  "title": "SolHOP",
+  "url": "https://solhop.org",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "solhop/solhop.org",
+  "twitter": "solhoporg",
+  "defaultDir": ""
+}
