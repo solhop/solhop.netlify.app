@@ -84,4 +84,4 @@ v 1 -2 -3 0
 
 ## API Docs
 
-The api docs are available on [docs.rs/rsat](https://docs.rs/rsat/) and [solhop.github.io/rsat/](https://solhop.github.io/rsat/).
+The api docs are available on https://docs.rs/rsat/.
