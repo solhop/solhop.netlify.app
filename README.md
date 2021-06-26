@@ -1,4 +1,4 @@
-# solhop.org
+# solhop.netlify.app
 
 ## Setup
 
